@@ -14,5 +14,11 @@
     <div id="app">
         <weather-app></weather-app>
     </div>
+    <footer class="bg-gray-900 w-full fixed bottom-0 py-5">
+        <div class="text-center  text-gray-500">
+            <p>&copy; 2020  Designed & Developed with Love by <br> Pradeep Nayak</p>
+            
+        </div>
+    </footer>
 </body>
 </html>
